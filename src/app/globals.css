@@ -24,3 +24,7 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+/* styles/globals.css */
+.font-display {
+  font-family: var(--font-poppins), var(--font-inter), var(--font-geist-sans), sans-serif;
+}
